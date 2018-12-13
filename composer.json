@@ -1,6 +1,7 @@
 {
   "require" : {
     "ext-mbstring": "*",
+	  "ext-pdo_pgsql": "",
 	"ext-gd":"*"
   },
   "require-dev": {
